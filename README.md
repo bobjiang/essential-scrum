@@ -1,6 +1,11 @@
 # Scrum精髓读书笔记汇总
 全部读书笔记，请[点击这里查看](https://github.com/bobjiang/essential-scrum/tree/master/reading-notes)。
 
+## 文档结构
+
+images/ - 文档中用到的图片  
+reading-notes/ - 读书笔记目录（可以用markdown、文本文件、doc、pdf等各类型）
+
 ## 如何提交我的读书笔记
 
 如果你在读了《Scrum精髓》这本书后，也有心得体会想与大家分享，可以用如下步骤进行分享。（熟悉github操作的同学可以忽略）
@@ -17,11 +22,6 @@
 如果上述的步骤对你还是很挑战，你可以把读书笔记通过邮件发给 Bob Jiang，我会帮你上传并署名。
 
 Bob Jiang - bob@c4at.cn
-
-## 文档结构
-
-images/ - 文档中用到的图片  
-reading-notes/ - 读书笔记目录（可以用markdown、文本文件、doc、pdf等各类型）
 
 ## 购书链接
 
